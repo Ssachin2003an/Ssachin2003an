@@ -17,15 +17,16 @@
 
 ### 🚀 About Me
 
-```yaml
-name: Sachidananda A N
-role: Software Developer @ Genixo Info Solutions Pvt. Ltd
-education: MCA @ Bangalore Institute of Technology (GPA 8.2)
-focus: [Next.js, React, TypeScript, Laravel, Node.js]
-interests: [Cybersecurity, AI Integration, Pen-testing]
-currently_building: AI-powered full-stack products
-email: ansachidananda@gmail.com
-```
+<img align="right" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🎓 Pursuing **MCA** @ Bangalore Institute of Technology — GPA 8.2
+- 💼 Currently **Software Developer** @ Genixo Info Solutions Pvt. Ltd
+- 🧠 Deep focus on **Next.js, React, TypeScript, Node.js, Laravel**
+- 🔐 Also into **Cybersecurity** — Web/Network Pen-testing, Kali Linux
+- 🤖 Love wiring **AI (GPT-4o, ML models)** into real, working products
+- 🌱 Currently exploring advanced AI-agent workflows & automation
+- ⚡ Fun fact: shipped an AI CRO auditor, a DDoS defense system, and a voice assistant — all solo
+- 📫 Reach me: **ansachidananda@gmail.com**
 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines3.gif" width="100%">
 
